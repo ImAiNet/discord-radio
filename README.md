@@ -5,6 +5,7 @@
 </h1>
 
 <h4 align="center">Open Source Radio for all</h4>
+<h4 align="center"><a href="https://www.buymeacoffee.com/imainet" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a></h4>
 
 # Install
 
