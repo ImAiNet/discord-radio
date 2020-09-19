@@ -1,0 +1,13 @@
+[{
+    "name": "Your first radio station",
+    "link": "http://example.com:8080/audio.mp3"
+  },
+  {
+    "name": "Your second radio station",
+    "link": "http://example.com:8080/audio.mp3"
+  },
+  {
+    "name": "Your third radio station",
+    "link": "http://example.com:8080/audio.mp3"
+  }
+]
